@@ -29,6 +29,8 @@ PS: Não se esqueça de alterar os [Prompts](src/services/crag/prompts.py).
 ## Autor
 
 **[@CuriousGu](https://www.github.com/CuriousGu) 🇧🇷**
+**[@PrimeRibs2501](https://www.github.com/PrimeRibs2501) 🇧🇷**
+
 
 ## Docs
 1. [Estrutura](docs/pt_br/ESTRUTURA.md)
