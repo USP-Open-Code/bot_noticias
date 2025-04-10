@@ -28,8 +28,10 @@ PS: Não se esqueça de alterar os [Prompts](src/services/crag/prompts.py).
 
 ## Autor
 
-**[@CuriousGu](https://www.github.com/CuriousGu) 🇧🇷**
-**[@PrimeRibs2501](https://www.github.com/PrimeRibs2501) 🇧🇷**
+**[Gustavo Mendonça Ortega](https://www.github.com/CuriousGu) 🇧🇷**
+
+
+**[Pedro Henrique Ribeiro Bueno](https://www.github.com/PrimeRibs2501) 🇧🇷**
 
 
 ## Docs
