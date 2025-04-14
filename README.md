@@ -50,3 +50,6 @@ Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ## Contatos
 - Email: gustavo_ortega@usp.br
 - Linkedin: [Gustavo M. Ortega](https://www.linkedin.com/in/gustavomendoncaortega/)
+
+- Email: pedro.hbueno03@usp.br
+- Linkedin: [Pedro Henrique B. Ribeiro]. (https://www.linkedin.com/in/pedro-henrique-bueno-ribeiro)
